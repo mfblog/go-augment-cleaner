@@ -74,6 +74,17 @@ augment-cleaner-windows-amd64.exe
 ```bash
 ./augment-cleaner-darwin-amd64
 ```
+
+##### ⚠️  重要提示 - Unix系统权限设置:
+在 macOS/Linux 上使用前，需要添加执行权限:
+
+```bash
+chmod +x 
+例如：
+  chmod +x ./augment-cleaner-linux-*
+  chmod +x ./augment-cleaner-darwin-*
+```
+
 ![PixPin_2025-06-16_15-56-51](https://github.com/user-attachments/assets/e2006cd0-4c05-4a88-a790-f6e481bf7139)
 
 
