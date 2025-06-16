@@ -27,6 +27,7 @@ Augment插件清理工具是一套专门设计的工具集，用于彻底清理A
 
 ---
 
+
 ## 📖 详细使用说明
 
 ### 使用前准备
@@ -73,6 +74,8 @@ augment-cleaner-windows-amd64.exe
 ```bash
 ./augment-cleaner-darwin-amd64
 ```
+![PixPin_2025-06-16_15-56-51](https://github.com/user-attachments/assets/e2006cd0-4c05-4a88-a790-f6e481bf7139)
+
 
 #### 高级选项
 ```bash
