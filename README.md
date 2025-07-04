@@ -1,4 +1,4 @@
-# Augment 插件清理工具 v3.4
+# Augment 插件清理工具 
 
 <div align="center">
 
