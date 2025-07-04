@@ -1,4 +1,4 @@
-![PixPin_2025-07-04_15-22-49](https://github.com/user-attachments/assets/02115255-02f0-4b4f-8680-fe707f852fe0)![PixPin_2025-07-04_15-22-49](https://github.com/user-attachments/assets/953f0cb4-153e-428c-b476-dfebc7ba51ce)# Augment 插件清理工具 v3.4
+# Augment 插件清理工具 v3.4
 
 <div align="center">
 
@@ -498,7 +498,7 @@ chmod +x augment-cleaner        # 添加执行权限
 </div>
 
 ### 项目信息
-- 🏠 **项目主页**: [GitHub Repository](https://github.com/your-repo/go-augment-cleaner)
+- 🏠 **项目主页**: [GitHub Repository](https://github.com/yuaotian/go-augment-cleaner)
 - 📄 **许可证**: MIT License
 - 🏷️ **当前版本**: v3.4
 - 🛠️ **Go 版本要求**: 1.23+
