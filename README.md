@@ -1,8 +1,7 @@
-# Augment 插件清理工具 v3.4
+![PixPin_2025-07-04_15-22-49](https://github.com/user-attachments/assets/02115255-02f0-4b4f-8680-fe707f852fe0)![PixPin_2025-07-04_15-22-49](https://github.com/user-attachments/assets/953f0cb4-153e-428c-b476-dfebc7ba51ce)# Augment 插件清理工具 v3.4
 
 <div align="center">
 
-![Augment Logo](https://github.com/user-attachments/assets/fd697b25-649e-4ce8-988a-2ee5ccf02fb4)
 
 **一款功能强大的 Augment 插件数据清理和 API 优化工具**
 
@@ -138,6 +137,8 @@ go run .
 │ 4. 🚪 退出程序                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
+
+![Augment Logo](https://github.com/user-attachments/assets/fd697b25-649e-4ce8-988a-2ee5ccf02fb4)
 
 #### 2️⃣ 命令行参数模式
 
@@ -463,12 +464,18 @@ chmod +x augment-cleaner        # 添加执行权限
 
 ### 公众号：煎饼果子卷AI
 
+
+
+
+
+![PixPin_2025-07-04_15-21-54](https://github.com/user-attachments/assets/f90594a7-9624-49f3-846c-441b1f784c94)
+
 <div align="center">
 <table>
 <tr>
 <td align="center">
 <b>个人微信</b><br>
-<img src="img/wx_me.png" width="250" alt="作者微信"><br>
+<img src="https://github.com/user-attachments/assets/028ca832-7ae6-491f-8802-b2a4689260fd" width="250" alt="作者微信"><br>
 <b>微信：JavaRookie666</b>
 </td>
 <td align="center">
@@ -477,23 +484,19 @@ chmod +x augment-cleaner        # 添加执行权限
 <small>二维码7天内(6月18日前)有效，过期请加微信</small>
 </td>
 <td align="center">
-<b>公众号</b><br>
-<img src="img/wx_public_2.png" width="250" alt="微信公众号"><br>
-<small>获取更多AI开发资源</small>
-</td>
-<td align="center">
 <b>微信赞赏</b><br>
-<img src="img/wx_zsm2.png" width="500" alt="微信赞赏码"><br>
+<img src="https://github.com/user-attachments/assets/45674478-1ac8-4d4e-8ab0-a5c7fd4175d3" width="500" alt="微信赞赏码"><br>
 <small>要到饭咧？啊咧？啊咧？不给也没事~ 请随意打赏</small>
 </td>
 <td align="center">
 <b>支付宝赞赏</b><br>
-<img src="img/alipay.png" width="500" alt="支付宝赞赏码"><br>
+<img src="https://github.com/user-attachments/assets/8e14d294-a549-43d7-b96d-d602de4939b4" width="500" alt="支付宝赞赏码"><br>
 <small>如果觉得有帮助,来包辣条犒劳一下吧~</small>
 </td>
 </tr>
 </table>
 </div>
+
 ### 项目信息
 - 🏠 **项目主页**: [GitHub Repository](https://github.com/your-repo/go-augment-cleaner)
 - 📄 **许可证**: MIT License
