@@ -1,4 +1,4 @@
-# Augment 插件清理工具 
+# Augment 插件清理工具 v3.4
 
 <div align="center">
 
@@ -36,7 +36,7 @@ Augment 插件清理工具是一款专业的多功能工具，集成了 **Augmen
 | **数据安全** | 清理操作不可逆，强烈建议创建备份 |
 | **功能影响** | 插件需要重新初始化，可能需要重新登录 |
 | **权限要求** | hosts 文件修改需要管理员权限 |
-| **IDE 状态** | 清理前必须关闭所有 JetBrains IDE |
+| **IDE 状态** | 清理前必须关闭所有 JetBrains、Cursor、VSCode |
 
 ### 🖥️ 系统兼容性
 
@@ -177,6 +177,8 @@ go run .
 | GoLand | ✅ 完全支持 | 所有版本 |
 | Rider | ✅ 完全支持 | 所有版本 |
 | Android Studio | ✅ 完全支持 | 所有版本 |
+| Cursor | ✅ 完全支持 | 所有版本 |
+| VSCode | ✅ 完全支持 | 所有版本 |
 
 #### 清理范围
 - ✅ **配置文件**: options 目录中的 Augment 相关配置
