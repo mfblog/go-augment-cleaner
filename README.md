@@ -482,8 +482,8 @@ chmod +x augment-cleaner        # 添加执行权限
 </td>
 <td align="center">
 <b>微信交流群</b><br>
-<img src="https://github.com/yuaotian/go-cursor-help/blob/master/img/qun-18.jpg" width="500" alt="WeChat"><br>
-<small>二维码7天内(8月28日前)有效，过期请加微信</small>
+<img src="https://github.com/yuaotian/go-cursor-help/blob/master/img/qun-20.jpg" width="500" alt="WeChat"><br>
+<small>二维码7天内(11月25日前)有效，过期请加微信</small>
 </td>
 <td align="center">
 <b>微信赞赏</b><br>
